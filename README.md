@@ -8,8 +8,7 @@ The webpage is fairly straight forward to navigate. Using the ` d3.selectAll("in
 
 
 ## Summary
-<<<<<<< HEAD
-One drawback of the design of this web application is that it cannot handle typos. For further development one may want to consider adding a "Did you mean.." sugestion before submtting search results. For example if someone types "cs" instead of "ca" the web app would recoginize this and sugest the latter so you wouldn't see zero results. One may also want to consider expanding the size of the data.js file, even potentially having it be able to update live. Folks interested in UFO sitings will want to read about citings beyond those that occured in January 2010. 
-=======
-One drawback of the design of this web application is that it cannot handle typos. For further development one may want to consider adding a "Did you mean.." sugestion before submtting search results. For example if someone types "cs" instead of "ca" the web app would recoginize this and sugest the latter so you wouldn't see zero results. One may also want to consider expanding the size of the data.js file, even potentially having it be able to update live. Folks interested in UFO sitings will want to read about citings beyond those that occured in January 2010. 
->>>>>>> 73db44fbcdc1c921f7d5931a836ab16900940294
+One drawback of the design of this web application is that it cannot handle typos. For further development one may want to consider adding a "Did you mean.." sugestion before submtting search results. For example if someone types "cs" instead of "ca" the web app would recoginize this and sugest the latter so you wouldn't see zero results. One may also want to consider expanding the size of the data.js file, even potentially having it be able to update live. Folks interested in UFO sitings will want to read about citings beyond those that occured in January 2010.  
+
+
+
